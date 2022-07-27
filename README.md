@@ -1,6 +1,6 @@
 # Praca-Inzynierska-Strona-Internetowa-Lokalnego-DJ
 
-Streszczenie
+<b>Streszczenie<b>
 Głównym tematem niniejszej pracy inżynierskiej jest utworzenie aplikacji internetowej, której zadaniem będzie reklama usług oferowanych przez firmę. Poza aspektem informacyjnym, opisującym oferowane usługi, strona umożliwia interakcję z klientem poprzez udostępnione formularze kontaktowe. Postawione cele w pełni zostały zrealizowane, czego wynikiem jest poprawnie działająca strona umieszczona na serwerze z wykupioną domeną. 
 Praca składa się z krótkiego wstępu, którego zadaniem nadrzędnym jest wprowadzenie czytelnika w przedstawiony temat, zapoznanie go z opisem użytych technologii, jak również podsumowaniem oraz z wnioskami płynącymi z pracy. Należy jednak zaznaczyć,
 iż najważniejsze rozdziały poświęcone zostały opisowi realizacji projektu oraz prezentacji gotowych elementów strony.
